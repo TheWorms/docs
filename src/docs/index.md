@@ -1,36 +1,35 @@
 ![NodeBB](https://i.imgur.com/zgeX2Jz.png)
 
-# Welcome!
+# Bienvenue!
 
-Welcome to the documentation portal for **NodeBB**.
+Bienvenue sur le portail de documentation de ** NodeBB **.
 
-**NodeBB** is a next-generation discussion platform that utilizes web sockets for instant interactions and real-time notifications. NodeBB forums have many modern features out of the box such as social network integration and streaming discussions.
+** NodeBB ** est une plate-forme de discussion nouvelle génération qui utilise des sockets pour des interactions instantanées et des notifications en temps réel. Les forums NodeBB ont de nombreuses fonctionnalités modernes telles que l'intégration de réseau social et les discussions en continu.
 
-NodeBB is an open source project which can be forked on [GitHub](https://github.com/NodeBB/NodeBB/). If there are any discrepancies in the documentation please feel free to submit a [pull request](https://github.com/NodeBB/docs) or raise an issue on our [issue tracker](https://github.com/NodeBB/NodeBB/).
+NodeBB est un projet open source qui peut être forker sur [GitHub] (https://github.com/NodeBB/NodeBB/). En cas d'erreur dans la documentation, n'hésitez pas à envoyer une [demande d'extraction] (https://github.com/NodeBB/docs) ou à nous informer d'un problème sur notre [suivi des problèmes] (https://github.com/ NodeBB / NodeBB /).
 
-To access the old documentation, [click here](https://nodebb.readthedocs.io/en/latest/). The old documentation was hosted by [ReadTheDocs](https://readthedocs.org), many thanks for the years of complimentary hosting!
+Pour accéder à l'ancienne documentation, [cliquez ici] (https://nodebb.readthedocs.io/en/latest/). L'ancienne documentation était hébergée par [ReadTheDocs] (https://readthedocs.org), merci pour les années d'hébergement gratuit!
 
-### Contributing to the documentation
+### Contribuer à la documentation
 
-The source code for the documentation portal is found in the [GitHub repository](https://github.com/NodeBB/docs). If you wish to add pages or make changes, please feel free to
-submit a pull request! All changes are welcome :)
+Le code source du portail de documentation se trouve dans le [référentiel GitHub] (https://github.com/NodeBB/docs). Si vous souhaitez ajouter des pages ou apporter des modifications, n'hésitez pas à
+soumettre une demande de traction! Tous les changements sont les bienvenus :)
 
-### Helping out the NodeBB Project
+### Aider le projet NodeBB
 
-NodeBB is an open source project, and will forever remain free. Here's a
-number of ways you can help us, even if you aren't a programmer.
+NodeBB est un projet open source, et restera toujours libre. Voici plusieurs façons de nous aider, même si vous n'êtes pas programmeur.
 
--   Join our [community](http://community.nodebb.org) and give us a hard time about bugs and missing features
--   [Like and share our content on Facebook](http://www.facebook.com/NodeBB)
--   [Follow us on Twitter](http://www.twitter.com/NodeBB) and perhaps tweet **\#NodeBB is most awesome forum software @NodeBB**
--   Tell everybody about NodeBB, including your grandma and her cats.
--   [Submit a pull request, or two, or three..](http://www.github.com/NodeBB/NodeBB)
--   Build a new theme
--   Write a plugin
--   Keep the link back to us on the footer of your own NodeBB :)
--   Blog about us! Give the gift of SEO juice this Christmas
--   [Help Translate NodeBB](https://www.transifex.com/projects/p/nodebb/) - It's a really simple translation tool and you don't need to know how to code.
+- Rejoindre notre [communauté] (http://community.nodebb.org) et donnez-nous un moment difficile sur les bugs et les fonctionnalités manquantes
+- [Aimez et partagez notre contenu sur Facebook] (http://www.facebook.com/NodeBB)
+- [Suivez-nous sur Twitter] (http://www.twitter.com/NodeBB) et peut-être tweetez ** \ # NodeBB est le logiciel de forum le plus génial @ NodeBB **
+- Parlez de NodeBB à tout le monde, y compris votre grand-mère et ses chats.
+- [Soumettez une demande d'extraction, ou deux, ou trois ..] (http://www.github.com/NodeBB/NodeBB)
+- Créer un nouveau thème
+- Créer un plugin
+- Gardez le lien avec nous sur le pied de page de votre propre NodeBB :)
+- Parler de nous sur votre Blog! Nous permettant un meilleur SEO
+- [Help Translate NodeBB] (https://www.transifex.com/projects/p/nodebb/) - C'est un outil de traduction très simple et vous n'avez pas besoin de savoir coder.
 
-### Translating NodeBB to another language
+### Traduire NodeBB dans une autre langue
 
-NodeBB uses Transifex, which is a user friendly visual tool which allows any individual to translate text into a language of their choice. You don't need to be a programmer to do this, so what are you waiting for? [Join the translation team](https://www.transifex.com/projects/p/nodebb/) now :)
+NodeBB utilise Transifex, un outil visuel convivial permettant à tout utilisateur de traduire du texte dans la langue de son choix. Vous n'avez pas besoin d'être programmeur pour faire cela, alors qu'attendez-vous? [Rejoignez l'équipe de traduction] (https://www.transifex.com/projects/p/nodebb/) maintenant :)
