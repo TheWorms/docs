@@ -1,51 +1,52 @@
-# OSX Mavericks
+# OS X Mavericks
 
-## Required Software
+## Logiciels requis
 
-First, install the following programs:
+Tout d'abord, installez les programmes suivants:
+
 
 -   <http://nodejs.org/>
 -   <http://brew.sh/>
 
-## Installing NodeBB
+## Installation de NodeBB
 
-Install redis with homebrew:
+Installez redis avec homebrew:
 
 ```
 brew install redis
 ```
 
-Start redis server, in your terminal enter:
+Démarrer le serveur redis, dans votre terminal, entrez:
 
 ```
 redis-server
 ```
 
-Clone NodeBB repo:
+Cloner le repo NodeBB:
 
 ```
 git clone -b v1.10.x https://github.com/NodeBB/NodeBB.git
 ```
 
-Enter directory:
+Entrez le répertoire:
 
 ```
 cd NodeBB
 ```
 
-Run interactive installation:
+Lancer la configuration:
 
 ```
 ./nodebb setup
 ```
 
-You may leave all of the options as default, except "Which database to
-use (mongo)", which you should answer with "redis"
+Vous pouvez laisser toutes les options par défaut, sauf "Quelle base de données utiliser?"
+use (mongo) ", auquel vous devez répondre" redis "
 
-And you're done! After the installation, run
+Et tu as fini! Après l'installation, lancez
 
 ```
 ./nodebb start
 ```
 
-You can visit your forum at `http://localhost:4567/`
+Vous pouvez acceder à votre forum sur `http://localhost:4567/`

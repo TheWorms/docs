@@ -2,11 +2,11 @@
 
 # Bienvenue!
 
-Bienvenue sur le portail de documentation de ** NodeBB **.
+Bienvenue sur le portail de documentation de **NodeBB**.
 
-** NodeBB ** est une plate-forme de discussion nouvelle génération qui utilise des sockets pour des interactions instantanées et des notifications en temps réel. Les forums NodeBB ont de nombreuses fonctionnalités modernes telles que l'intégration de réseau social et les discussions en continu.
+**NodeBB** est une plate-forme de discussion nouvelle génération qui utilise des sockets pour des interactions instantanées et des notifications en temps réel. Les forums NodeBB ont de nombreuses fonctionnalités modernes telles que l'intégration de réseau social et les discussions en continu.
 
-NodeBB est un projet open source qui peut être forker sur [GitHub] (https://github.com/NodeBB/NodeBB/). En cas d'erreur dans la documentation, n'hésitez pas à envoyer une [demande d'extraction] (https://github.com/NodeBB/docs) ou à nous informer d'un problème sur notre [suivi des problèmes] (https://github.com/ NodeBB / NodeBB /).
+NodeBB est un projet open source qui peut être forker sur [GitHub] (https://github.com/NodeBB/NodeBB/). En cas d'erreur dans la documentation, n'hésitez pas à envoyer une [demande d'extraction] (https://github.com/NodeBB/docs) ou à nous informer d'un problème sur notre [suivi des problèmes] (https://github.com/NodeBB/NodeBB/).
 
 Pour accéder à l'ancienne documentation, [cliquez ici] (https://nodebb.readthedocs.io/en/latest/). L'ancienne documentation était hébergée par [ReadTheDocs] (https://readthedocs.org), merci pour les années d'hébergement gratuit!
 
@@ -21,7 +21,7 @@ NodeBB est un projet open source, et restera toujours libre. Voici plusieurs fa�
 
 - Rejoindre notre [communauté] (http://community.nodebb.org) et donnez-nous un moment difficile sur les bugs et les fonctionnalités manquantes
 - [Aimez et partagez notre contenu sur Facebook] (http://www.facebook.com/NodeBB)
-- [Suivez-nous sur Twitter] (http://www.twitter.com/NodeBB) et peut-être tweetez ** \ # NodeBB est le logiciel de forum le plus génial @ NodeBB **
+- [Suivez-nous sur Twitter] (http://www.twitter.com/NodeBB) et peut-être tweetez **\ # NodeBB est le logiciel de forum le plus génial @ NodeBB**
 - Parlez de NodeBB à tout le monde, y compris votre grand-mère et ses chats.
 - [Soumettez une demande d'extraction, ou deux, ou trois ..] (http://www.github.com/NodeBB/NodeBB)
 - Créer un nouveau thème
